@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"gitlab.com/altiano/cnator"
+	"github.com/altiano/cnator"
 )
 
 func main() {
